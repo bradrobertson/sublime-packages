@@ -1,0 +1,14 @@
+{
+	"auto_upgrade_last_run": 1345641637,
+	"installed_packages":
+	[
+		"Git",
+		"Jasmine",
+		"Package Control",
+		"RSpec",
+		"SublimeLinter",
+		"Theme - Soda",
+		"TrailingSpaces",
+		"YUI Compressor"
+	]
+}

@@ -1,0 +1,6 @@
+{
+    "install": "README.rst",
+    "1.5.1": "messages/1.5.1.txt",
+    "1.5.3": "messages/1.5.3.txt"
+    "1.5.4": "messages/1.5.4.txt"
+}
