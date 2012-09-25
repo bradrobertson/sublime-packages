@@ -1,9 +1,11 @@
 {
-	"auto_upgrade_last_run": 1345641637,
+	"auto_upgrade_last_run": 1348493493,
 	"installed_packages":
 	[
 		"Git",
 		"Jasmine",
+		"LESS",
+		"Markdown Preview",
 		"Package Control",
 		"RSpec",
 		"SublimeLinter",
